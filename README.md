@@ -39,4 +39,4 @@ Conserved mutation at bp 819 in Thai variants shown in NCBI’s MSA viewer
 
 All sources used in this project are saved in the below link: 
 
-https://www.mybib.com/b/RX97NO 
+<a href="https://www.mybib.com/b/RX97NO">View Bibliography</a>
