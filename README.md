@@ -37,4 +37,6 @@ Conserved mutation at bp 278 in Thai variants shown in NCBI’s MSA viewer.
 Figure 5: 
 Conserved mutation at bp 819 in Thai variants shown in NCBI’s MSA viewer
 
+All sources used in this project are saved in the below link: 
 
+https://www.mybib.com/b/RX97NO 
