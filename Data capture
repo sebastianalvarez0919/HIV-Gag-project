@@ -1,0 +1,7 @@
+Data was taken from NCBI's popset search engine.
+All data was gathered in FASTA format.
+in UNIX:
+nano
+paste in each desired data set
+saved
+labeled "pileofstrains.fasta"
